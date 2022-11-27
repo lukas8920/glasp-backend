@@ -1,0 +1,13 @@
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/entities/AccessApi.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/controllers/PasswordController.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/mappers/MessageResponseMapper.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/mappers/SignupMapper.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/controllers/AuthController.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/mappers/AccessApiMapper.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/entities/JwtResponseApi.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/mappers/LoginMapper.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/mappers/JwtResponseMapper.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/entities/MessageResponseApi.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/controllers/ApiAccessController.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/entities/LoginRequestApi.java
+/home/lukas/IdeaProjects/GlaspServer/presentation/src/main/java/org/kehrbusch/entities/SignupRequestApi.java

@@ -1,0 +1,5 @@
+org/kehrbusch/LoginService.class
+org/kehrbusch/ApiAccessService.class
+org/kehrbusch/RegistrationListener.class
+org/kehrbusch/IRegistrationService.class
+org/kehrbusch/RegistrationService.class

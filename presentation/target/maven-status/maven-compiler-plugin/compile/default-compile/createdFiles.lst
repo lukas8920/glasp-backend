@@ -1,0 +1,13 @@
+org/kehrbusch/entities/JwtResponseApi.class
+org/kehrbusch/mappers/SignupMapper.class
+org/kehrbusch/controllers/ApiAccessController.class
+org/kehrbusch/mappers/MessageResponseMapper.class
+org/kehrbusch/entities/LoginRequestApi.class
+org/kehrbusch/controllers/PasswordController.class
+org/kehrbusch/entities/AccessApi.class
+org/kehrbusch/entities/MessageResponseApi.class
+org/kehrbusch/mappers/LoginMapper.class
+org/kehrbusch/mappers/AccessApiMapper.class
+org/kehrbusch/mappers/JwtResponseMapper.class
+org/kehrbusch/controllers/AuthController.class
+org/kehrbusch/entities/SignupRequestApi.class
